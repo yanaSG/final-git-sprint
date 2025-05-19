@@ -4,3 +4,5 @@ Copy code
 - Auth Library: bcrypt
 - Dashboard: Added user analytics and theme toggle
 - Chart Library: Chart.js
+- Notifications: Added email and in-app alerts
+- Notification Queue: Redis
