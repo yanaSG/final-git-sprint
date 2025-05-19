@@ -1,8 +1,4 @@
 txt
 Copy code
-Project: Dev Sprint App
-Version: 0.1
-Features:
-- Login System
-- Dashboard
-- Notifications
+- Dashboard: Added user analytics and theme toggle
+- Chart Library: Chart.js
