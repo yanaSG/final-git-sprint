@@ -1,0 +1,6 @@
+txt
+Copy code
+Version: v1.0.0
+- Secure Login with bcrypt
+- Dashboard with analytics (Chart.js)
+- Notifications with Redis queue
