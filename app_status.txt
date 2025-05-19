@@ -1,8 +1,4 @@
 txt
 Copy code
-Project: Dev Sprint App
-Version: 0.1
-Features:
-- Login System
-- Dashboard
-- Notifications
+- Notifications: Added email and in-app alerts
+- Notification Queue: Redis
